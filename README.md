@@ -64,6 +64,6 @@ _**Note: All Policies should show up in Devices > Configuration Profiles, except
 - [Enable Windows LAPS in Entra Device Settings](https://learn.microsoft.com/en-us/windows-server/identity/laps/laps-scenarios-azure-active-directory)
 
 **Credit**
-- Credit to [SkipToTheEndpoint](https://github.com/SkipToTheEndpoint), who's [OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline?tab=readme-ov-file) project was the jumping off point and is used as reference for a majority of the security policies.
+- Credit to [SkipToTheEndpoint](https://github.com/SkipToTheEndpoint), who's [OpenIntuneBaseline](https://github.com/SkipToTheEndpoint/OpenIntuneBaseline?tab=readme-ov-file) project was the jumping off point and is used as reference for a majority of the security policies. Please go check out his project, it's awesome!
 
 
