@@ -37,7 +37,7 @@ _**Note: All Policies should show up in Devices > Configuration Profiles, except
 | Attack Surface Reduction - D - ASR Rules (Audit Mode) | Recommended ASR rules set to Audit by default. Enable to your preference.  |
 
 **Importing:**
-- The baseline was exported using the tool developed by Mikael Karlsson (GitHub and Twitter), and can be imported in the same way.
+- The baseline was exported using the tool developed by Mikael Karlsson ([GitHub](https://github.com/Micke-K/IntuneManagement) and [Twitter](https://twitter.com/Micke_K_72)), and can be imported in the same way.
 - I would recommend **not** importing assignments. There should not be any assignments in the in the included policy, but just to be sure. 
 
 **Limitations:** 
