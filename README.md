@@ -23,7 +23,7 @@ _**Note: All Policies should show up in Devices > Configuration Profiles, except
 | Policy      | Definition |
 | ----------- | ----------- |
 | Device Security - D - Login and Lock Screen      | Note: Set your own Preferred AAD Tenant Domain Name       |
-| Device Security - U - Device Guard, Credential Guard and HVCI   | NOTE: Applying this policy to Devices will cause a reboot between Device and User ESP phases.        |
+| Device Security - U - Device Guard, Credential Guard and HVCI   | Note: Applying this policy to Devices will cause a reboot between Device and User ESP phases.        |
 | Windows Hello for Business - U - WHfB Configuration_Settings | This will set Global Windows  Hello For Business Configuration Settings as described [here](https://learn.microsoft.com/en-us/mem/intune/protect/windows-hello) |
 | Google Chrome - U - Profiles, Sign-In and Sync | Note: Set your own browser primary account Domain Name |
 | Microsoft OneDrive - D - Configuration | Note: Set your own Tenant ID for syncing AND silent move (should happen automatically) |
