@@ -41,9 +41,6 @@ _**Note: All Policies should show up in Devices > Configuration Profiles, except
 - I would recommend **not** importing assignments. There should not be any assignments in the in the included policy, but just to be sure. 
 - Should just be able to run start.cmd in the IntuneManagement-master folder
 
-**Assignment:**
-
-
 **Limitations:** 
 -	AppLocker configuration was excluded due to wide variance between environments. Apps that do not require elevation or install to a user's AppData folder may not be blocked.
 
