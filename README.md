@@ -38,6 +38,7 @@ _**Note: All Policies should show up in Devices > Configuration Profiles, except
 
 **Importing:**
 - The baseline was exported using the tool developed by Mikael Karlsson (GitHub and Twitter), and can be imported in the same way.
+- I would recommend **not** importing assignments. There should not be any assignments in the in the included policy, but just to be sure. 
 - Should just be able to run start.cmd in the IntuneManagement-master folder
 
 **Assignment:**
