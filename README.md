@@ -5,7 +5,7 @@
 **Included Policy:**
 - Autopilot Profile
 - Compliance Policies
-- Device Configuratoin
+- Device Configuration
 - Driver Update Profiles
 - Endpoint Security
 - Enrollment Status Page
