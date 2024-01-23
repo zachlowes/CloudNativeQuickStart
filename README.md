@@ -1,6 +1,6 @@
 # CloudNativeQuickStart
 
-**Intended Use Case:** Baseline configuration policy for an AADJ/Entra ID-Joined (Cloud Native) workstations: https://aka.ms/CloudNativeDevices
+**Intended Use Case:** Baseline configuration policy for an AADJ/Entra ID-Joined (Cloud Native) workstation: https://aka.ms/CloudNativeDevices
 
 **Included Policy:**
 - Autopilot Profile
